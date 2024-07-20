@@ -1,3 +1,4 @@
+// 파일 복사 과제
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
