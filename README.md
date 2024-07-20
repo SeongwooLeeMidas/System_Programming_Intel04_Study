@@ -1,6 +1,6 @@
 ### 인텔 AI SW 아카데미 4기 시스템 프로그래밍 스터디입니다.
 
-### 시스템 프로그래밍 강의를 듣고 개념을 익히고 과제를 수행합니다. [https://docs.google.com/spreadsheets/d/1aHu96wBYlsw5zYxakd6d3ViZnViyKzuJlPzz6n-KSlA/edit?gid=0#gid=0]
+### [시스템 프로그래밍 강의](https://docs.google.com/spreadsheets/d/1aHu96wBYlsw5zYxakd6d3ViZnViyKzuJlPzz6n-KSlA/edit?gid=0#gid=0)를 듣고 개념을 익히고 과제를 수행합니다. 
 
 ### 강의는 Lec으로 과제는 Lab으로 폴더가 구성됩니다.
 
