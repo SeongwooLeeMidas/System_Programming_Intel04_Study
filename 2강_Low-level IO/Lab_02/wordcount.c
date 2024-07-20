@@ -1,3 +1,4 @@
+// 글자 수 세기 과제
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
